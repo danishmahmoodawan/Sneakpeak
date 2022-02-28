@@ -363,6 +363,9 @@ text-align: center;
     background-size: cover;
     height: 25vh;
   }
+  .top_section .col-6{
+padding: 0;
+  }
   .second_section{
     margin: 0;
   }
@@ -378,6 +381,19 @@ padding: 30px !important;
   .anser img{
 width: 100% !important;
   }
+  .right_third_col .container{
+    position: initial
+  }
+  .right_third_col .container .row{
+    margin-top: 20px;
+  }
+  .right_third_col a{
+    margin-bottom: 10px;
+  }
+  .forth_right_col{
+    padding: 0 15px ;
+  }
+  
   .fifth_section{
 padding: 20px 0;
   }

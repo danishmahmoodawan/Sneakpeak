@@ -378,6 +378,10 @@ padding: 30px !important;
   .anser img{
 width: 100% !important;
   }
+  .forth_right_col{
+    padding: 0 15px ;
+  }
+  
   .fifth_section{
 padding: 20px 0;
   }
